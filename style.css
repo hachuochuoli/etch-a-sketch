@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    width: 640px;
+    height: 640px;
+    flex-wrap: wrap;
+    border-style: solid;
+    border-color: black;
+}
+
+#test {
+    background-color: red;
+}
